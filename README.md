@@ -1,1 +1,1 @@
-#Front end repository for Course360 (Team 7)
+Front end repository for Course360 (Team 7)
